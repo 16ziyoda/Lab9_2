@@ -13,6 +13,6 @@ int main() {
             index=i;
         }
     }
-    
+ cout<<"Index="<<index;   
     return 0;
 }
